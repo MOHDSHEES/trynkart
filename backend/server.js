@@ -33,7 +33,7 @@ db.once("open", function () {
   console.log("Connected successfully");
 });
 
-app.use(express.static(path.join(__dirname, "/frontend/build")));
+app.use(express.static(path.join(__dirname, "./frontend/build")));
 
 app.use("/", userRoute);
 app.use("/api/uploads", uploadRouter);
@@ -41,7 +41,7 @@ app.use("/api/seller", sellerRoutes);
 app.use("/api", emailRoutes);
 app.use("/api/payment", paymentRoutes);
 app.get("*", (req, res) =>
-  res.sendFile(path.join(__dirname, "/frontend/build/index.html"))
+  res.sendFile(path.join(__dirname, "./frontend/build/index.html"))
 );
 
 // app.post("/api", async (req, res) => {
