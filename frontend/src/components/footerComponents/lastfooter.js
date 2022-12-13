@@ -125,7 +125,7 @@ const Lastfooter = () => {
                   </li>
                   <li>
                     <a
-                      href="https://trynkartseller.herokuapp.com/"
+                      href="https://trynkart-seller.vercel.app/"
                       target="_blank"
                       rel="noreferrer"
                     >

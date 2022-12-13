@@ -13,7 +13,7 @@ const Privacypolicy = () => {
           describes how TryNkart Internet Private Limited and its affiliates
           (collectively “ TryNkart, we, our, us”) collect, use, share or
           otherwise process your personal information through TryNkart website{" "}
-          <Link to="/">newtrynkart.herokuapp.com</Link>
+          <Link to="/">trynkart.vercel.app</Link>
           , its web application, and m-site (hereinafter referred to as the
           “Platform”).
           <br />
@@ -213,7 +213,7 @@ const Privacypolicy = () => {
           You can reach our customer support team to address any of your queries
           or complaints related to product and services by clicking the link,
           selecting your order and choosing 'Need Help' option:{" "}
-          <Link to="/contact">https://newtrynkart.herokuapp.com/contact</Link>.
+          <Link to="/contact">https://trynkart.vercel.app/contact</Link>.
         </p>
       </div>
     </div>

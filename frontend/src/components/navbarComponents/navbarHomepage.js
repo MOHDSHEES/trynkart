@@ -538,7 +538,7 @@ function NavbarHomepage() {
                     </li> */}
                     <li className="megamenu-container ">
                       <a
-                        href="https://trynkartseller.herokuapp.com/"
+                        href="https://trynkart-seller.vercel.app/"
                         target="_blank"
                         rel="noreferrer"
                       >
@@ -751,7 +751,7 @@ function NavbarHomepage() {
                         </li>
                         <li>
                           <a
-                            href="https://trynkartseller.herokuapp.com/"
+                            href="https://trynkart-seller.vercel.app/"
                             target="_blank"
                             rel="noreferrer"
                           >
@@ -900,7 +900,7 @@ function NavbarHomepage() {
                   </li>
                   <li>
                     <a
-                      href="https://trynkartseller.herokuapp.com/"
+                      href="https://trynkart-seller.vercel.app/"
                       target="_blank"
                       rel="noreferrer"
                     >
@@ -915,7 +915,7 @@ function NavbarHomepage() {
                   </li>
                   <li>
                     <a
-                      href="https://trynkartseller.herokuapp.com/"
+                      href="https://trynkart-seller.vercel.app/"
                       target="_blank"
                       rel="noreferrer"
                     >

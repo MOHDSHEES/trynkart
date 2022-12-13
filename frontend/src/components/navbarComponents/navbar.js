@@ -256,7 +256,7 @@ const Navbar = (props) => {
                     </li> */}
                     <li className="megamenu-container ">
                       <a
-                        href="https://trynkartseller.herokuapp.com/"
+                        href="https://trynkart-seller.vercel.app/"
                         target="_blank"
                         rel="noreferrer"
                         // className="sf-with-ul"
@@ -359,7 +359,7 @@ const Navbar = (props) => {
                         </li>
                         <li>
                           <a
-                            href="https://trynkartseller.herokuapp.com/"
+                            href="https://trynkart-seller.vercel.app/"
                             target="_blank"
                             rel="noreferrer"
                           >
@@ -679,7 +679,7 @@ const Navbar = (props) => {
               </li> */}
               <li>
                 <a
-                  href="https://trynkartseller.herokuapp.com/"
+                  href="https://trynkart-seller.vercel.app/"
                   target="_blank"
                   rel="noreferrer"
                   className="sf-with-ul"
