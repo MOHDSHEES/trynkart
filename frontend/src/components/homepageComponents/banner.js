@@ -4,7 +4,6 @@ const Banner = () => {
   return (
     <div>
       <div className="mb-2"></div>
-
       <div className="container">
         <div className="row">
           <div className="col-sm-6 col-lg-3">
